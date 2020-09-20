@@ -1,4 +1,9 @@
 {
+  "env": {
+    "FIREBASE_PROJECT_ID": "@notes-firebase-project-id",
+    "FIREBASE_CLIENT_EMAIL": "@notes-firebase-client-email",
+    "FIREBASE_PRIVATE_KEY": "@notes-firebase-private-key"
+  },
   "build": {
     "env": {
       "FIREBASE_PROJECT_ID": "@notes-firebase-project-id",
