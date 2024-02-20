@@ -1,0 +1,8 @@
+{
+  "name": "uses",
+  "short_name": "uses",
+  "lang": "en-US",
+  "start_url": "/",
+  "display": "standalone",
+  "scope": "/"
+}
